@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUM=$!
+echo "enter a number: "
 
 read NUM
 
