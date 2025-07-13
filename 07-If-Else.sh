@@ -4,7 +4,7 @@ echo "enter a number: "
 
 read NUM
 
-if [[$NUM -gt 100]]
+if [$NUM -gt 100]
 then
     echo "$NUM is greater than 100"
 else
